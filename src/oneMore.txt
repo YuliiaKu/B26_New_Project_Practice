@@ -1,0 +1,5 @@
+
+This file I choose to add to git in popping window.
+It turned green.
+Something different.
+Let's see how it works
